@@ -1,0 +1,16 @@
+\contentsline {chapter}{چكيده}{یک}{Item.2}
+\contentsline {chapter}{پيشگفتار}{یک}{chapter*.4}
+\contentsline {chapter}{فهرست مطالب}{دو}{chapter*.5}
+\contentsline {chapter}{فهرست شكل‌ها}{سه}{chapter*.6}
+\contentsline {chapter}{فهرست جداول}{چهار}{chapter*.7}
+\contentsline {chapter}{\numberline {1} مفاهیم مقدماتی }{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}بخش}{2}{section.1.1}
+\contentsline {chapter}{\numberline {2}عنوان فصل}{5}{chapter.2}
+\contentsline {chapter}{\numberline {3}عنوان فصل}{6}{chapter.3}
+\contentsline {chapter}{\numberline {4}عنوان فصل}{7}{chapter.4}
+\contentsline {chapter}{\numberline {5}نتیجه‌گیری و جمع‌بندی}{8}{chapter.5}
+\contentsline {section}{\numberline {5.1}جمع‌بندی}{8}{section.5.1}
+\contentsline {section}{\numberline {5.2}پيشنهادات}{8}{section.5.2}
+\contentsline {chapter}{مراجع}{11}{chapter*.8}
+\contentsline {chapter}{پيوست: كدهاي \texttt {R}}{12}{chapter*.9}
+\contentsline {chapter}{واژه‌نامه فارسی - انگلیسی}{14}{chapter*.10}

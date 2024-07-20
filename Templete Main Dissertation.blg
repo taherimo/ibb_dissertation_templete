@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (Web2C 2010)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: Templete Main Dissertation.aux
+A level-1 auxiliary file: besmellah.aux
+The style file: abbrv.bst
+Database file #1: references.bib
+Repeated entry---line 691 of file references.bib
+ : @article{marra2011
+ :                   ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in bierens1988
+You've used 17 entries,
+            2118 wiz_defined-function locations,
+            612 strings with 6706 characters,
+and the built_in function-call counts, 5930 in all, are:
+= -- 597
+> -- 278
+< -- 3
++ -- 113
+- -- 92
+* -- 455
+:= -- 998
+add.period$ -- 51
+call.type$ -- 17
+change.case$ -- 96
+chr.to.int$ -- 0
+cite$ -- 18
+duplicate$ -- 201
+empty$ -- 443
+format.name$ -- 92
+if$ -- 1203
+int.to.chr$ -- 0
+int.to.str$ -- 17
+missing$ -- 18
+newline$ -- 88
+num.names$ -- 34
+pop$ -- 76
+preamble$ -- 1
+purify$ -- 80
+quote$ -- 0
+skip$ -- 141
+stack$ -- 0
+substring$ -- 446
+swap$ -- 31
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 66
+warning$ -- 1
+while$ -- 65
+width$ -- 19
+write$ -- 187
+(There was 1 error message)

@@ -1,0 +1,100 @@
+\begin{thebibliography}{10}
+
+\bibitem{amini2022}
+M.~Amini, A.~Bayat, and R.~Salehian.
+\newblock hhsmm: an r package for hidden hybrid markov/semi-markov models.
+\newblock {\em Computational Statistics}, pages 1--53, 2022.
+
+\bibitem{bierens1988}
+H.~J. Bierens.
+\newblock The nadaraya-watson kernel regression function estimator.
+\newblock 1988.
+
+\bibitem{cantoni2011}
+E.~Cantoni, J.~M. Flemming, and E.~Ronchetti.
+\newblock Variable selection in additive models by non-negative garrote.
+\newblock {\em Statistical modelling}, 11(3):237--252, 2011.
+
+\bibitem{degooijer2022}
+J.~G. De~Gooijer, G.~E. Henter, and A.~Yuan.
+\newblock Kernel-based hidden markov conditional densities.
+\newblock {\em Computational Statistics \& Data Analysis}, 169:107431, 2022.
+
+\bibitem{eilers1996}
+P.~H. Eilers and B.~D. Marx.
+\newblock Flexible smoothing with b-splines and penalties.
+\newblock {\em Statistical science}, 11(2):89--121, 1996.
+
+\bibitem{fruhwirth2006}
+S.~Fr{\"u}hwirth-Schnatter and S.~Fr{\`e}uhwirth-Schnatter.
+\newblock {\em Finite mixture and Markov switching models}, volume 796.
+\newblock Springer, 2006.
+
+\bibitem{goldfeld1973}
+S.~M. Goldfeld and R.~E. Quandt.
+\newblock A markov model for switching regressions.
+\newblock {\em Journal of Econometrics}, 1:3--16, 1973.
+
+\bibitem{hamilton1989}
+J.~D. Hamilton.
+\newblock A new approach to the economic analysis of nonstationary time series
+  and the business cycle.
+\newblock {\em Econometrica: Journal of the econometric society}, pages
+  357--384, 1989.
+
+\bibitem{kauermann2005}
+G.~Kauermann.
+\newblock A note on smoothing parameter selection for penalized spline
+  smoothing.
+\newblock {\em Journal of statistical planning and inference}, 127(1-2):53--69,
+  2005.
+
+\bibitem{kauermann2013}
+G.~Kauermann, C.~Schellhase, and D.~Ruppert.
+\newblock Flexible copula density estimation with penalized hierarchical
+  b-splines.
+\newblock {\em Scandinavian Journal of Statistics}, 40(4):685--705, 2013.
+
+\bibitem{kim2008}
+C.-J. Kim, J.~Piger, and R.~Startz.
+\newblock Estimation of markov regime-switching regression models with
+  endogenous switching.
+\newblock {\em Journal of Econometrics}, 143(2):263--273, 2008.
+
+\bibitem{langrock2018}
+R.~Langrock, T.~Adam, V.~Leos-Barajas, S.~Mews, D.~L. Miller, and Y.~P.
+  Papastamatiou.
+\newblock Spline-based nonparametric inference in general state-switching
+  models.
+\newblock {\em Statistica Neerlandica}, 72(3):179--200, 2018.
+
+\bibitem{langrock2017}
+R.~Langrock, T.~Kneib, R.~Glennie, and T.~Michelot.
+\newblock Markov-switching generalized additive models.
+\newblock {\em Statistics and Computing}, 27(1):259--270, 2017.
+
+\bibitem{langrock2015b}
+R.~Langrock, T.~Kneib, A.~Sohn, and S.~L. DeRuiter.
+\newblock Nonparametric inference in hidden markov models using p-splines.
+\newblock {\em Biometrics}, 71(2):520--528, 2015.
+
+\bibitem{marra2011}
+G.~Marra and S.~N. Wood.
+\newblock Practical variable selection for generalized additive models.
+\newblock {\em Computational Statistics \& Data Analysis}, 55(7):2372--2387,
+  2011.
+
+\bibitem{pohle2017}
+J.~Pohle, R.~Langrock, F.~M. van Beest, and N.~M. Schmidt.
+\newblock Selecting the number of states in hidden markov models: pragmatic
+  solutions illustrated using animal movement.
+\newblock {\em Journal of Agricultural, Biological and Environmental
+  Statistics}, 22(3):270--293, 2017.
+
+\bibitem{wang1999}
+P.~Wang and M.~L. Puterman.
+\newblock Markov poisson regression models for discrete time series. part 1:
+  Methodology.
+\newblock {\em Journal of Applied Statistics}, 26(7):855--869, 1999.
+
+\end{thebibliography}
